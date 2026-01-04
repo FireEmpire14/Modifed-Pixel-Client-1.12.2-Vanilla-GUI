@@ -1,9 +1,7 @@
 {
   "framework": null,
   "buildCommand": null,
-  "outputDirectory": "."
-}
-{
+  "outputDirectory": ".",
   "headers": [
     {
       "source": "/(.*)",
@@ -14,3 +12,4 @@
     }
   ]
 }
+
